@@ -23,3 +23,5 @@ Este projeto foi desenvolvido para fornecer uma interface rápida e técnica par
 1. Clone este repositório:
    ```bash
    git clone  https://github.com/mariacarlyni-pereira/ip-lookup-terminal.git
+
+<img width="757" height="427" alt="Captura de tela 2026-04-26 171844" src="https://github.com/user-attachments/assets/626a37d0-783b-40c3-a3e0-7cef89bce6f1" />
