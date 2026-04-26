@@ -6,11 +6,10 @@ Uma ferramenta de auditoria e reconhecimento de rede minimalista que consulta in
 ![Tech Stack](https://img.shields.io/badge/Stack-HTML5%20|%20CSS3%20|%20JS-blue?style=for-the-badge)
 
 ## 🎯 Objetivo
-Este projeto foi desenvolvido para fornecer uma interface rápida e técnica (estilo terminal/SOC) para análise de IPs. Ideal para profissionais de segurança que precisam de dados precisos sem distrações visuais.
+Este projeto foi desenvolvido para fornecer uma interface rápida e técnica para análise de IPs.
 
 ## 🚀 Funcionalidades
 - **Scan em Tempo Real**: Consulta instantânea de metadados de rede.
-- **Interface Terminal-Style**: Design focado em performance e estética hacker.
 - **Detecção de Provedor (ISP)**: Identifica o Sistema Autônomo (ASN) e a organização responsável.
 - **Geolocalização**: Retorna coordenadas, região e fuso horário.
 
