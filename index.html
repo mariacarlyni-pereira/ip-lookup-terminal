@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>IP Terminal v1.0</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="terminal">
+        <div class="header">root@system:~$ ./iplookup</div>
+        <div class="input-area">
+            <span class="prompt">IP_ADDRESS:</span>
+            <input type="text" id="ipInput" placeholder="8.8.8.8" autocomplete="off">
+            <button onclick="buscarIP()">PESQUISAR</button>
+        </div>
+        <div id="output" class="output"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
